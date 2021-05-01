@@ -1,11 +1,11 @@
 body
 {
-<<<<<<< HEAD
-    color: deeppink;
+ 
+    color: rgb(59, 29, 139);
     text-align: center;
     font-family: "Arial";
 
-=======
+
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -47,5 +47,4 @@ body
 #post
 {
     padding: 1em;
->>>>>>> cabecera
 }
