@@ -7,4 +7,7 @@ Soy Basilio Saldarriaga G.
 
 Este es el año 2021. 
 
-Curso de PLatzi de git
+Curso de PLatzi de git.
+
+
+Seguimos el curso.
