@@ -1,12 +1,12 @@
 body
 {
  
-    color: rgb(59, 29, 139);
+    color: rgb(73, 22, 212);
     text-align: center;
     font-family: "Arial";
 
 
-    color: #333;
+    color: rgb(196, 43, 43);
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -16,7 +16,7 @@ body
 
 #cabecera
 {
-    background: #33A;
+    background: rgb(19, 19, 71);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
