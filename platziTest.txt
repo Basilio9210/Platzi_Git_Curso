@@ -3,3 +3,14 @@ Hola}esta es una prueba de git.
 Agrego cambios 30/01/2021
 
 Soy Basilio Saldarriaga G.
+<<<<<<< HEAD
+=======
+
+
+Este es el año 2021. 
+
+Curso de PLatzi de git.
+
+
+Seguimos el curso.
+>>>>>>> cabecera
